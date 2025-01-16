@@ -1,0 +1,11 @@
+prod_id,pname,Category,Subcategory,Brand,LaunchYear
+prod_1,Smartphone,Electronics,Smartphones,Samsung,2022
+prod_2,Laptop,Electronics,Laptops,Dell,2021
+prod_3,Tablet,Electronics,Tablets,Apple,2020
+prod_4,Smartwatch,Wearables,Smartwatches,Fitbit,2023
+prod_5,Bluetooth Speaker,Accessories,Audio Devices,Sony,2019
+prod_6,Wireless Earbuds,Accessories,Audio Devices,Bose,2021
+prod_7,Gaming Console,Electronics,Gaming Devices,Sony,2020
+prod_8,Monitor,Electronics,Display Devices,LG,2022
+prod_9,Keyboard,Accessories,Input Devices,Logitech,2023
+prod_10,External Hard Drive,Storage,External Storage,Seagate,2021

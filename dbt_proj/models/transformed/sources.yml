@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: orders   # The name of the source
+    database: TEST_DB      # The Snowflake database where the source is located
+    schema: schema1      # The schema within the database
+    description: "Orders DB."
+    
+    tables:
+      - name: orders
+        description: "Contains order details including customer and product information."
+
+        
+      - name: customer
+        description: "Contains order details including customer and product information."    
+
+      - name: product
+        description: "Contains order details including customer and product information."      

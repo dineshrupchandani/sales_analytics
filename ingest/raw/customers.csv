@@ -1,0 +1,16 @@
+CUST_ID,Name,Age,Email,City
+cust_1,John Doe,25,john.doe@example.com,New York
+cust_2,Jane Smith,30,jane.smith@example.com,Los Angeles
+cust_3,Robert Brown,45,robert.brown@example.com,Chicago
+cust_4,Emily Davis,35,emily.davis@example.com,Houston
+cust_5,Michael Johnson,50,michael.johnson@example.com,Phoenix
+cust_6,Linda White,28,linda.white@example.com,Philadelphia
+cust_7,David Wilson,40,david.wilson@example.com,San Antonio
+cust_8,Susan Taylor,33,susan.taylor@example.com,San Diego
+cust_9,James Moore,55,james.moore@example.com,Dallas
+cust_10,Patricia Anderson,38,patricia.anderson@example.com,San Jose
+cust_11,Christopher Thomas,29,christopher.thomas@example.com,Austin
+cust_12,Sarah Jackson,42,sarah.jackson@example.com,Fort Worth
+cust_13,Daniel Harris,31,daniel.harris@example.com,Columbus
+cust_14,Laura Martin,36,laura.martin@example.com,Charlotte
+cust_15,Matthew Thompson,48,matthew.thompson@example.com,San Francisco

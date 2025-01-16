@@ -1,0 +1,13 @@
+dbt_proj:
+  outputs:
+    dev:
+      account: egyrzwk-ubb42851
+      database: sales_analytics
+      password: password
+      role: accountadmin
+      schema: transformed
+      threads: 1
+      type: snowflake
+      user: test_user
+      warehouse: compute_wh
+  target: dev
